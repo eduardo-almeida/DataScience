@@ -1,10 +1,6 @@
 
 [![author](https://img.shields.io/badge/author-Eduardo%20Almeida-red.svg)](https://www.linkedin.com/in/eduardo-almeida-814a676a/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/karinnecristina/Data-Science)
 
-<p align="center">
-  <img src="banner.jpeg" >
-</p>
-
 # Visão geral
 O objetivo desta tarefa é testar seus conhecimentos e capacidades usando redes neurais e visão computacional básica para resolver problemas.
 
@@ -46,5 +42,5 @@ Se você quiser fazer seu próprio modelo ou fazer melhorias a partir dele, incl
 
 Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Data Analysis. 
 
-* **Lista de todos os projetos realizados:** https://github.com/eduardo-almeida/Data_Science
+* **Lista de todos os projetos realizados:** https://github.com/eduardo-almeida/DataScience
 ---
