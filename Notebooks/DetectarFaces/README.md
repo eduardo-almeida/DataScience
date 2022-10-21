@@ -32,6 +32,19 @@ Use o exemplo do modelo CIFAR10-CNN da Keras como ponto de partida. Você deve i
 
 Se você quiser fazer seu próprio modelo ou fazer melhorias a partir dele, inclua seus resultados tanto para o modelo CIFAR10 quanto para seu modelo (com melhor desempenho)... leve esse momento em consideração.
 
+## Formato de dados
+### Entradas
+A entrada é uma pasta cheia de imagens.
+[**Download Link**](https://www.dropbox.com/s/lbobq9xt3nchq5q/train.rotfaces.zip?dl=0)
+
+## Dados de treinamento
+Os dados de treinamento são um conjunto de imagens e a verdade básica para eles.
+[**Download Link**](https://www.dropbox.com/s/ustfubunhfe47mj/test.rotfaces.zip?dl=0)
+
+
+# **Dados de teste**
+Os dados de teste são um conjunto de imagens sem a verdade do terreno.
+
 **Background in:** Python | SQL | Machine Learning  
 
 **Links:**
