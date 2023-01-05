@@ -8,3 +8,4 @@
 * [**Como Tratar Dados Ausentes com Pandas**](https://sigmoidal.ai/como-tratar-dados-ausentes-com-pandas/)
 * [**Meu checklist de projetos de Aprendizado de Máquina**](https://medium.com/databootcamp/meu-checklist-de-projetos-de-aprendizado-de-m%C3%A1quina-34328850d7ab)
 * [**DESAFIO DATA SCIENCE EM 100 DIAS:**](https://www.youtube.com/watch?v=6sv8AF0kvss&list=PL1q5Yjfj-nIUMRNvhY4g8n_XYJ_P3qucV)
+* [**Os 7 melhores sites para encontrar datasets para projetos de Data Science**]([https://www.youtube.com/watch?v=6sv8AF0kvss&list=PL1q5Yjfj-nIUMRNvhY4g8n_XYJ_P3qucV](https://paulovasconcellos.com.br/os-7-melhores-sites-para-encontrar-datasets-para-projetos-de-data-science-8a53c3b48329))
