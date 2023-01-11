@@ -1,5 +1,19 @@
 [![author](https://img.shields.io/badge/author-Eduardo%20Almeida-red.svg)](https://www.linkedin.com/in/eduardo-almeida-814a676a/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/eduardo-almeida)
 
+Data Science é um campo amplo que envolve várias áreas, como estatística, matemática, ciência da computação, aprendizado de máquina e conhecimento do negócio. Alguns tópicos comuns que um estudante de Ciência de Dados pode estudar incluem:
+
+Análise exploratória de dados (EDA)
+Limpeza e pré-processamento de dados
+Modelagem estatística
+Aprendizado de máquina
+Visualização de dados
+Engenharia de características
+Minerando grande volume de dados
+Modelos de inteligência artificial avançadas
+Algoritmos de aprendizado não supervisionado e semi-supervisionado
+Implementação e validação de modelos
+Estudar esses tópicos requer conhecimento básico de matemática, estatística e programação. E importante saber Python e R para trabalhar com dados.
+
 ##DICAS PARA MONTAR PORTIFÓLIO
 
 * [**BIG DATA: VOCÊ CONHECE OS 4 TIPOS DE ANÁLISE DE DADOS?**](https://blog.academiain1.com.br/big-data-voce-conhece-os-4-tipos-de-analise-de-dados/)
