@@ -12,12 +12,6 @@ onde y é a variável dependente, x é a variável independente, beta_0 é a con
 
 A regressão linear pode ser estendida para lidar com múltiplas variáveis independentes, neste caso é chamado de Regressão Linear Múltipla. O modelo é representado por uma equação com vários coeficientes beta, um para cada variável independente.
 
-A regressão linear é frequentemente usada como um método de análise exploratória para identificar relações entre variáveis e como um método de previsão para prever valores futuros de uma variável dependente a partir de valores conhecidos das variáveis independentes.
-
-# Regressão Linear Multivariada
-
-A regressão linear multivariada é um tipo de modelo estatístico que é utilizado para prever um valor de saída contínuo (ou seja, uma variável dependente) a partir de múltiplas variáveis independentes. É uma generalização da regressão linear simples, onde há apenas uma variável independente.
-
 A equação matemática para a regressão linear multivariada é a seguinte:
 
 y = beta_0 + beta_1 * x_1 + beta_2 * x_2 + ... + beta_n * x_n
@@ -27,3 +21,6 @@ onde y é a variável dependente, x_1, x_2, ..., x_n são as variáveis independ
 A regressão linear multivariada é utilizada para prever ou explicar como uma variável dependente é afetada por múltiplas variáveis independentes. Ele é amplamente utilizado em muitas áreas, como economia, finanças, medicina e engenharia, entre outras.
 
 É importante notar que a regressão linear multivariada pressupõe que as variáveis independentes são independentes entre si, ou seja, não há correlação linear entre elas. Caso contrário o modelo pode não ser preciso.
+
+A regressão linear é frequentemente usada como um método de análise exploratória para identificar relações entre variáveis e como um método de previsão para prever valores futuros de uma variável dependente a partir de valores conhecidos das variáveis independentes.
+
