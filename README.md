@@ -5,6 +5,8 @@
 </p>    
   
 # Eduardo Almeida 
+
+
 <sub>*Data Science *</sub>  
 
 Cientista de Dados Júnior. Graduado em Ciência da Computação pela Universidade Federal do Ceará.   
